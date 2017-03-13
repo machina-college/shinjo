@@ -1,6 +1,10 @@
 シンジョーまちなカレッジ
 ------
 
+* [Facebookページ](https://www.facebook.com/shinjomachinacollege/)
+* [Twitter](https://twitter.com/machina_college)
+* email: machina.college@gmail.com
+
 GitHub Pageの作業
 ----
 
@@ -19,3 +23,9 @@ GitHub Pageの作業
       machina-college.github.io
 
     $ dig shinjo.machina-college.org +nostats +nocomments +nocmd
+
+
+参考サイト
+ｰｰｰｰ
+
+* [様々なファビコンを一括生成。favicon generator](https://ao-system.net/favicongenerator/)
