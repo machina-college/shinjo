@@ -25,7 +25,7 @@ GitHub Pageの作業
     $ dig shinjo.machina-college.org +nostats +nocomments +nocmd
 
 
-参考サイト
-ｰｰｰｰ
+参考・関連サイト
+----
 
 * [様々なファビコンを一括生成。favicon generator](https://ao-system.net/favicongenerator/)
