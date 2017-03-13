@@ -12,9 +12,10 @@ GitHub Pageの作業
   $ git remote add origin https://github.com/machina-college/shinjo.git
   $ git push -u origin gh-pages
 
+  DNS設定
+    shinjo.machina-college.org
+    CNAME
+    300
+    machina-college.github.io
 
-
-
-
-
-https://github.com/orgs/machina-college/dashboard
+  $ dig shinjo.machina-college.org +nostats +nocomments +nocmd
